@@ -1,0 +1,4 @@
+-r requirements-dev.txt
+gunicorn==20.0.4
+psycopg2
+
